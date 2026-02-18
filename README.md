@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Adenike (Nik) 👋🏾</h1>
+<h1 align="center">Hi, I am Adenike (Nik) 👋🏾</h1>
 
 <p align="center">
 Technology Product Manager • Data Scientist • Cybersecurity Researcher  
