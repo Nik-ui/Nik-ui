@@ -11,7 +11,7 @@ I build data-driven products and security-focused machine learning solutions —
 
 <p>
 🎓 <b>MSc Research:</b> Cyberattack Pattern Detection & Forecasting<br>
-☁️ <b>Focus:</b> Cloud • ML • Data Engineering • Security Analytics<br>
+☁️ <b>Focus:</b> Cloud • Machine Learning • Data Engineering • Security Analytics<br>
 📍 <b>Location:</b> United Kingdom
 </p>
 
@@ -21,10 +21,10 @@ I build data-driven products and security-focused machine learning solutions —
 
 <ul>
   <li><b>Cyberattack pattern analytics:</b> seasonality, severity signals, and threat indicators in structured datasets</li>
-  <li><b>Machine learning:</b> classification + imbalance handling + robust evaluation</li>
-  <li><b>Explainability:</b> interpreting model decisions and communicating insights clearly</li>
-  <li><b>Cloud & data engineering:</b> scalable workflows (Azure/AWS) for repeatable analysis</li>
-  <li><b>Dashboards & storytelling:</b> turning raw data into decision-ready insights</li>
+  <li><b>Machine learning:</b> classification, imbalance handling, and robust evaluation</li>
+  <li><b>Explainability:</b> interpreting model behaviour and communicating insights clearly</li>
+  <li><b>Cloud & data engineering:</b> scalable workflows (Azure / AWS) for repeatable analysis</li>
+  <li><b>Dashboards & storytelling:</b> transforming raw data into decision-ready insights</li>
 </ul>
 
 <hr>
@@ -37,22 +37,24 @@ I build data-driven products and security-focused machine learning solutions —
   <img src="https://img.shields.io/badge/SQL-003B57?style=flat&logo=postgresql&logoColor=white" />
 </p>
 
-<p><b>Data & ML</b></p>
+<p><b>Data & Machine Learning</b></p>
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/XGBoost-000000?style=flat&logo=apache&logoColor=white" />
+  <img src="https://img.shields.io/badge/LightGBM-02569B?style=flat" />
+  <img src="https://img.shields.io/badge/CatBoost-FFCC00?style=flat" />
 </p>
 
-<p><b>Visualisation</b></p>
+<p><b>Visualisation & Analytics</b></p>
 <p>
-  <img src="https://img.shields.io/badge/Matplotlib-000000?style=flat&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-000000?style=flat" />
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=000000" />
 </p>
 
-<p><b>Cloud & Dev</b></p>
+<p><b>Cloud & Development</b></p>
 <p>
   <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
@@ -65,19 +67,18 @@ I build data-driven products and security-focused machine learning solutions —
 <h3>📌 Featured Projects</h3>
 
 <ul>
-  <li><b>Cyberattack Pattern Detection (MSc Research):</b> statistical testing, forecasting, and ML modelling for attack patterns</li>
-  <li><b>Intrusion Detection Modelling:</b> evaluated multiple classifiers with interpretability-focused reporting</li>
-  <li><b>Cloud Data Pipeline:</b> scalable ingestion → cleaning → modelling workflow on Azure/AWS</li>
-  <li><b>Healthcare Analytics (Power BI):</b> dashboards covering admissions, community health, and social determinants</li>
+  <li><b>Cyberattack Pattern Detection (MSc Research):</b> statistical testing, forecasting, and ML modelling for identifying seasonal and severity-based attack trends</li>
+  <li><b>Intrusion Detection Modelling:</b> multi-model evaluation with explainability-focused interpretation</li>
+  <li><b>Cloud Data Pipeline:</b> scalable ingestion → cleaning → modelling workflow implemented on Azure/AWS</li>
+  <li><b>Healthcare Analytics Dashboard:</b> Power BI insights on admissions, community health, and social determinants</li>
 </ul>
 
-<p>
-<i>Tip:</i> You can “Pin” your best repos on your profile so these appear visually under the README.
-</p>
+<p><i>Tip:</i> Pin your strongest repositories so they appear visually below this profile section.</p>
 
 <hr>
 
 <h3>🌐 Connect with me</h3>
+
 <ul>
   <li><b>LinkedIn:</b> <a href="https://www.linkedin.com/in/fatty-adenike-/">fatty-adenike</a></li>
   <li><b>ORCID:</b> <a href="https://orcid.org/0009-0005-3356-5467">0009-0005-3356-5467</a></li>
@@ -87,16 +88,7 @@ I build data-driven products and security-focused machine learning solutions —
 
 <td width="35%" valign="top" align="center">
 
-<img src="undraw_programmer_raqr.png" width="280" />
-
-<br><br>
-
-<p>
-<b>Quick snapshot</b><br>
-🔐 Cybersecurity + ML<br>
-📊 Data storytelling<br>
-☁️ Cloud workflows
-</p>
+<img src="undraw_programmer_raqr.png" width="300" />
 
 </td>
 </tr>
