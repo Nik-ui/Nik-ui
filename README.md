@@ -1,3 +1,8 @@
+<p align="right">
+  <img src="undraw_programmer_raqr.png" width="220"/>
+</p>
+
+
 <h1 align="center">Hi, I am Adenike (Nik) 👋🏾</h1>
 
 <p align="center">
