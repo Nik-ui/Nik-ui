@@ -3,7 +3,7 @@
 # Hi, I am Adenike (Nik) 👋🏾
 
 **Technology Product Manager • Data Scientist • Cybersecurity Researcher**  
-I build data-driven products and security-focused machine learning solutions — from **data pipelines** to **modelling, evaluation, and explainability**.
+I build data-driven products and security-focused machine learning solutions , from **data pipelines** to **modelling, evaluation, and explainability**.
 
 🎓 **MSc Research:** Cyberattack Pattern Detection & Forecasting  
 ☁️ **Focus:** Cloud • Machine Learning • Data Engineering • Security Analytics  
