@@ -34,7 +34,7 @@ class Nik:
 
 ---
 
-💬 *I love connecting with different people — if you'd like to say hi, I'd be happy to meet you!*
+💬 *I love connecting with different people , if you'd like to say hi, I'd be happy to meet you!*
 
 ---
 
