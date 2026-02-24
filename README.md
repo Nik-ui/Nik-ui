@@ -1,10 +1,10 @@
 <img align="right" src="undraw_programmer_raqr.png" width="280"/>
 
-# Hi, I’m Adenike (Nik) 👋🏾
+# Hi, I am Adenike (Nik) 👋🏾
 
 **Technology Product Manager • Data Scientist • Cybersecurity Researcher**
 
-I build **data-driven products** and **security-focused machine learning solutions** — from data pipelines and analytics to modelling, evaluation, and explainability.
+I build **data-driven products** and **security-focused machine learning solutions** , from data pipelines and analytics to modelling, evaluation, and explainability.
 
 🎓 **MSc Research**  
 Exploratory Analysis of Cyberattack Patterns on E-Commerce Platforms Using Statistical Methods  
