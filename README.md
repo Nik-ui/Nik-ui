@@ -4,14 +4,21 @@
 
 **Technology Product Manager • Data Scientist • Cybersecurity Researcher**
 
-I build **data-driven products** and **security-focused machine learning solutions** , from data pipelines and analytics to modelling, evaluation, and explainability.
+I build **data-driven products** and **security-focused machine learning solutions** — from data pipelines and analytics to modelling, evaluation, and explainability.
 
-🎓 **MSc Research**  
-Exploratory Analysis of Cyberattack Patterns on E-Commerce Platforms Using Statistical Methods  
+---
+
+## 🎓 Research & Publications
+
+**MSc Research**  
+*Exploratory Analysis of Cyberattack Patterns on E-Commerce Platforms Using Statistical Methods*  
 DOI: https://doi.org/10.48550/arXiv.2511.03020  
 
-📄 **Published Review Article**  
-Autonomous AI-Enabled Digital Twins for Socio-Technical Systems: Architectures, Autonomy Levels, and Governance — A Comparative Review  
+**Published Review Article**  
+*Autonomous AI-Enabled Digital Twins for Socio-Technical Systems: Architectures, Autonomy Levels, and Governance — A Comparative Review*  
+DOI: https://doi.org/10.69739/jcsp.v3i1.1550  
+
+---
 
 ☁️ **Focus Areas**  
 Cloud • Machine Learning • Data Engineering • Security Analytics  
@@ -20,12 +27,12 @@ Cloud • Machine Learning • Data Engineering • Security Analytics
 
 ---
 
-## What I am Focused On
+## What I Am Focused On
 
-- **Cyberattack pattern analytics** — seasonality, severity signals, and threat indicators in structured datasets  
-- **Machine learning** — classification, imbalance handling, and robust evaluation  
+- **Cyberattack pattern analytics** — analysing seasonality, severity signals, and threat indicators  
+- **Machine learning** — classification, imbalance handling, and robust model evaluation  
 - **Explainability (XAI)** — interpreting model behaviour and communicating insights clearly  
-- **Cloud & data engineering** — scalable workflows using Azure and AWS  
+- **Cloud & data engineering** — scalable analytical workflows using Azure and AWS  
 - **Dashboards & storytelling** — transforming raw data into decision-ready insights  
 
 ---
@@ -59,17 +66,17 @@ Cloud • Machine Learning • Data Engineering • Security Analytics
 
 ## ⭐ Featured Projects
 
-- **Cyberattack Pattern Detection (MSc Research)**  
-  Statistical testing, forecasting, and machine learning modelling for seasonal and severity-based cyberattack trends.
+**Cyberattack Pattern Detection (MSc Research)**  
+Statistical testing, forecasting, and machine learning modelling for seasonal and severity-based cyberattack trends.
 
-- **Intrusion Detection Modelling**  
-  Multi-model evaluation with explainability-focused interpretation.
+**Intrusion Detection Modelling**  
+Multi-model evaluation with explainability-focused interpretation.
 
-- **Cloud Data Pipeline**  
-  Scalable ingestion → cleaning → modelling workflows deployed on Azure/AWS.
+**Cloud Data Pipeline**  
+Scalable ingestion → cleaning → modelling workflows deployed on Azure and AWS.
 
-- **Healthcare Analytics Dashboard**  
-  Power BI analytics exploring hospital admissions and community health indicators.
+**Healthcare Analytics Dashboard**  
+Power BI analytics exploring hospital admissions and community health indicators.
 
 ---
 
