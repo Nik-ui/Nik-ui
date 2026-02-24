@@ -5,13 +5,14 @@
 **Technology Product Manager • Data Scientist • Cybersecurity Researcher**  
 I build data-driven products and security-focused machine learning solutions , from **data pipelines** to **modelling, evaluation, and explainability**.
 
-🎓 **MSc Research:** Cyberattack Pattern Detection & Forecasting  
+🎓 **MSc Research:** Exploratory Analysis of Cyberattack Patterns on E-Commerce Platforms Using Statistical Methods (DOI: 10.48550/arXiv.2511.03020) 
+    **Published Article:** Autonomous AI-Enabled Digital Twins for Socio-Technical Systems: Architectures, Autonomy Levels, and Governance -A Comparative Review (DOI: 10.48550/arXiv.2511.03020)
 ☁️ **Focus:** Cloud • Machine Learning • Data Engineering • Security Analytics  
 📍 **Location:** United Kingdom  
 
 ---
 
-## 🔍 What I am focused on
+## What I am focused on
 
 - **Cyberattack pattern analytics:** seasonality, severity signals, and threat indicators in structured datasets  
 - **Machine learning:** classification, imbalance handling, and robust evaluation  
