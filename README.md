@@ -4,7 +4,7 @@
 
 **Technology Product Manager • Data Scientist • Cybersecurity Researcher**
 
-I build **data-driven products** and **security-focused machine learning solutions** — from data pipelines and analytics to modelling, evaluation, and explainability.
+I build **data-driven products** and **security-focused machine learning solutions** , from data pipelines and analytics to modelling, evaluation, and explainability.
 
 ---
 
